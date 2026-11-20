@@ -1,5 +1,16 @@
 {
-  "last_head": "8df58ef8018fdd518a18a077d96c456952c5c0bb",
+  "last_head": "5385003daeba1da327acf76eb5906f15e513c63c",
   "backlog": [],
-  "episodes": []
+  "episodes": [
+    {
+      "date": "2026-11-20",
+      "problems": [
+        "same-binary-tree",
+        "longest-common-subsequence",
+        "word-ladder",
+        "redundant-connection",
+        "count-paths"
+      ]
+    }
+  ]
 }

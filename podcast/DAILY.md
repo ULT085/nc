@@ -6,7 +6,7 @@
 
 1. 在 `podcasts` 分支上工作：`git fetch origin main podcasts && git checkout -B podcasts origin/podcasts`。
    繳交紀錄由 NeetCode 同步到 `main`，所以要讀的是 `origin/main`。
-2. 確認 TTS 套件：`pip install -q edge-tts`（環境的 setup script 通常已安裝）。
+2. 確認 TTS 套件：`python3 -m pip install -q edge-tts`（務必用 `python3 -m pip`，環境裡 `pip` 可能指向別的 Python）（環境的 setup script 通常已安裝）。
 3. 讀 `podcasts/state.json` 拿到 `last_head`，執行
    `python3 podcast/find_submissions.py --ref origin/main --since-commit <last_head>`，取得新的繳交。
 4. 選題：

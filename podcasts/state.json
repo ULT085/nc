@@ -1,5 +1,5 @@
 {
-  "last_head": "dd6debcee4987475fe62bb06333f8439933fd0d1",
+  "last_head": "6197037583f01207dffe0bdd5e817b2797d3a91c",
   "backlog": [],
   "episodes": [
     {
@@ -16,6 +16,12 @@
       "date": "2026-11-22",
       "problems": [
         "subtree-of-a-binary-tree"
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "problems": [
+        "number-of-one-bits"
       ]
     }
   ]

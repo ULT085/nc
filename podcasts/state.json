@@ -1,5 +1,5 @@
 {
-  "last_head": "4dd007dc9a89e45e2c2963868c2d53c30e5b275f",
+  "last_head": "6e9db59d527880ec43960738d9a491038c0b725b",
   "backlog": [],
   "episodes": [
     {
@@ -29,6 +29,12 @@
       "problems": [
         "counting-bits",
         "lowest-common-ancestor-in-binary-search-tree"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "problems": [
+        "subsets"
       ]
     }
   ]

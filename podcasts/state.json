@@ -1,5 +1,5 @@
 {
-  "last_head": "6e9db59d527880ec43960738d9a491038c0b725b",
+  "last_head": "a589cd915419afd1eb7e745e17475ccef8b84206",
   "backlog": [],
   "episodes": [
     {
@@ -35,6 +35,13 @@
       "date": "2026-11-27",
       "problems": [
         "subsets"
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "problems": [
+        "combination-target-sum",
+        "combination-target-sum-ii"
       ]
     }
   ]
